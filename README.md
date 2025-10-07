@@ -12,19 +12,19 @@ I'm a passionate comouter science student who loves building, learning, and coll
 - Databases: PostgreSQL, MongoDB
 - Data Analysis: Scikit-Learn, Pandas, Numpy.
 
-## 📈 GitHub Stats
-![sytraore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sytraore&show_icons=true&hide_title=true)
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy-traore/)
-
 ## 📚 Current Projects & Interests
 - Research contributions
 - Full Stack Development
 - Machine learning & AI
 
+## 📈 GitHub Stats
+![sytraore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sytraore&show_icons=true&hide_title=true)
+
 ## 😁 Fun Facts
 - I speak French fluently 🇫🇷
 - I am a big Real Madrid fan! ⚽️🤍
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy-traore/)
 
 Thanks for stopping by! Feel free to connect or check out my projects.
