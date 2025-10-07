@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 🎓 Pursuing both a **Bachelor and Master's in Computer Science** at Virginia Tech.<br>
-I'm a passionate developer who loves building, learning, and collaborating on exciting projects. Always learning and exploring new ways to solve complex engineering challenges.
+I'm a passionate comouter science student who loves building, learning, and collaborating on exciting projects. I am always looking for ways to learn and solve problems through software.
 
 ## 🚀 Technologies & Tools
 - Languages: Java, Python, JavaScript, Swift, SQL, C.
