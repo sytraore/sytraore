@@ -19,7 +19,7 @@ I'm a passionate developer who loves building, learning, and collaborating on ex
 
 ## 📚 Current Projects & Interests
 - Research contributions
-- Web development & backend engineering
+- Full Stack Development
 - Machine learning & AI
 
 ## 😁 Fun Facts
