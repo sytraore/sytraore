@@ -17,9 +17,6 @@ I'm a passionate comouter science student who loves building, learning, and coll
 - Full Stack Development
 - Machine learning & AI
 
-## 📈 GitHub Stats
-![sytraore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sytraore&show_icons=true&hide_title=true)
-
 ## 😁 Fun Facts
 - I speak French fluently 🇫🇷
 - I am a big Real Madrid fan! ⚽️🤍
