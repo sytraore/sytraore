@@ -7,10 +7,10 @@
 
 ## 🚀 My Current Tech Stack
 - Languages: Java, Python, JavaScript, Swift, SQL, C.
-- Backend: Spring Boot, Node.js, Express.js
-- Frontend & Mobile: React, SwiftUI, UIKit
-- DevOps & Tools: Git, Docker, GitHub Actions, JUnit, Bash, Linux, 
-- Databases: PostgreSQL, MongoDB
+- Backend: Spring Boot, Node.js, Express.js.
+- Frontend & Mobile: React, SwiftUI, UIKit.
+- DevOps & Tools: Git, Docker, GitHub Actions, JUnit, Bash, Linux. 
+- Databases: PostgreSQL, MongoDB.
 - Data Analysis: Scikit-Learn, Pandas, Numpy.
 
 ## ‼️ Current Projects
@@ -19,9 +19,9 @@
 - VT CS Clubs: Personal project for computer science clubs at Virginia Tech.
 
 ## 📚 Current Area of Interests
-- Backend or Full Stack Development
-- Machine Learning & AI Voice Agents
-- Cloud Computing
+- Backend or Full Stack Development.
+- Machine Learning & AI Voice Agents.
+- Cloud Computing.
 
 ## 😁 Fun Facts
 - I speak French fluently 🇫🇷
