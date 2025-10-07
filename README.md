@@ -13,10 +13,15 @@
 - Databases: PostgreSQL, MongoDB
 - Data Analysis: Scikit-Learn, Pandas, Numpy.
 
-## 📚 Current Projects & Interests
-- Research contributions
-- Full Stack Development
-- Machine learning & AI
+## ‼️ Current Projects
+- Echolab: Research project on how to teach preschoolers basics math with AI Voice Agents.
+- CodeKids: Research project on how to teach children coding in a simple and effective way.
+- VT CS Clubs: Personal project for computer science clubs at Virginia Tech.
+
+## 📚 Current Area of Interests
+- Backend or Full Stack Development
+- Machine Learning & AI Voice Agents
+- Cloud Computing
 
 ## 😁 Fun Facts
 - I speak French fluently 🇫🇷
