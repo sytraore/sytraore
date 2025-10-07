@@ -14,7 +14,7 @@
 - Data Analysis: Scikit-Learn, Pandas, Numpy.
 
 ## ‼️ Current Projects
-- Echolab: Research project on how to teach preschoolers basics math with AI Voice Agents.
+- Counting-App: Research project on how to teach preschoolers basics math with AI Voice Agents.
 - CodeKids: Research project on how to teach children coding in a simple and effective way.
 - VT CS Clubs: Personal project for computer science clubs at Virginia Tech.
 
