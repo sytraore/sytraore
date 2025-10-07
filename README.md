@@ -1,4 +1,4 @@
-# Hi there, I'm Sy Traore 👋
+# Hi there, I'm Sy 👋
 
 ## 👨‍💻 About Me
 🎓 Pursuing both a **Bachelor and Master's in Computer Science** at Virginia Tech.<br>
