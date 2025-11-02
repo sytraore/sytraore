@@ -6,12 +6,11 @@
 ❤️ I'm a passionate computer science student who loves building, learning, and collaborating on exciting projects. I am always looking for ways to learn, solve problems and innovate through software.
 
 ## 🚀 My Current Tech Stack
-- Languages: Java, Python, JavaScript, Swift, SQL, C.
-- Backend: Spring Boot, Node.js, Express.js.
+- Languages: Java, JavaScript, Python, Swift, SQL, C.
+- Backend: Spring Boot, Node.js, Express.js, Flask.
 - Frontend & Mobile: React, SwiftUI, UIKit.
 - DevOps & Tools: Git, Docker, GitHub Actions, JUnit, Bash, Linux. 
 - Databases: PostgreSQL, MongoDB.
-- Data Analysis: Scikit-Learn, Pandas, Numpy.
 
 ## ‼️ Current Projects
 - Counting-App: Research project on how to teach preschoolers basics math with AI Voice Agents.
