@@ -1,7 +1,7 @@
 # Hi there, I'm Sy 👋
 
 ## 👨‍💻 About Me
-🎓 I am currently pursuing both a **Bachelor and Master's in Computer Science** at Virginia Tech.<br>
+🎓 I am currently pursuing a **Bachelor in Computer Science** at Virginia Tech.<br>
 
 ❤️ I'm a passionate computer science student who loves building, learning, and collaborating on exciting projects. I am always looking for ways to learn, solve problems and innovate through software.
 
@@ -17,6 +17,7 @@
 - Counting-App: Research project on how to teach preschoolers basics math with AI Voice Agents.
 - CodeKids: Research project on how to teach children coding in a simple and effective way.
 - VT CS Clubs: Personal project for computer science clubs at Virginia Tech.
+- GitFit: A platform for workout programming, nutrition tracking, and coach-client management. (private repository due to university honor code)
 
 ## 📚 Current Area of Interests
 - Backend or Full Stack Development.
