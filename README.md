@@ -6,7 +6,7 @@
 ❤️ I'm a passionate computer science student who loves building, learning, and collaborating on exciting projects. I am always looking for ways to learn, solve problems and innovate through software.
 
 ## 🚀 My Current Tech Stack
-- Languages: Java, JavaScript, Python, Swift, SQL, C.
+- Languages: Java, JavaScript, SQL, Python, C, Swift.
 - Backend: Spring Boot, Node.js, Express.js, Flask.
 - Frontend & Mobile: React, SwiftUI, UIKit.
 - DevOps & Tools: Git, Docker, GitHub Actions, JUnit, Bash, Linux. 
@@ -20,7 +20,7 @@
 
 ## 📚 Current Area of Interests
 - Backend or Full Stack Development.
-- Machine Learning & AI Voice Agents.
+- AI Voice Agents.
 - Cloud Computing.
 
 ## 😁 Fun Facts
