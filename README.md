@@ -1,9 +1,10 @@
 # Hi there, I'm Sy 👋
 
 ## 👨‍💻 About Me
-🎓 I am currently pursuing both a **Bachelor and Master in Computer Science** at Virginia Tech.<br>
-
-❤️ I'm a passionate computer science student who loves building, learning, and collaborating on exciting projects. I am always looking for ways to learn, solve problems and innovate through software.
+❤️ I'm a computer science student at Virginia Tech with research experience on AI voice agents. I work on full stack projects with a focus on backend development.
+#### 😁 Fun Facts About Me
+- I speak French fluently 🇫🇷
+- I am a big Real Madrid fan! ⚽️🤍
 
 ## 🚀 My Current Tech Stack
 - Languages: Java, JavaScript, SQL, Python, C, Swift.
@@ -14,18 +15,13 @@
 
 ## ‼️ Current Projects
 - Counting-App: Research project on how to teach preschoolers basics math with AI Voice Agents.
-- CodeKids: Research project on how to teach children coding in a simple and effective way.
 - VT CS Clubs: Personal project for computer science clubs at Virginia Tech.
 - GitFit: A platform for workout programming, nutrition tracking, and coach-client management. (private repository due to university honor code)
 
 ## 📚 Current Area of Interests
-- Backend or Full Stack Development.
-- AI Voice Agents.
+- Backend/Full Stack Development.
+- Agentic AI.
 - Cloud Computing.
-
-## 😁 Fun Facts
-- I speak French fluently 🇫🇷
-- I am a big Real Madrid fan! ⚽️🤍
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy-traore/)
